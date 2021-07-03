@@ -4,20 +4,21 @@ import Travel from "../../images/travelpicture.jpg"
 
 class Effect extends React.Component {
     state = {
-      count: Travel
+      showImage: Travel
     };
 changeImg = () => {
-    if (this.state.count == Formal) {
-        this.setState({count : Travel})
+    if (this.state.showImage == Formal) {
+        this.setState({showImage : Travel})
     }
-    if (this.state.count == Travel) {
-        this.setState({count : Formal})
+    if (this.state.showImage == Travel) {
+        this.setState({showImage : Formal})
     }
 };
 
 render() {
-  return (<>
-  <img src= {this.state.count} alt = "stuff" onClick= {this.changeImg}/> 
+  return (
+  <>
+  <img src= {this.state.showImage} alt = "the developer" onClick= {this.changeImg}/> 
     </>
   );
 }};
