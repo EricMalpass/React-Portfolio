@@ -2,9 +2,9 @@ import React from "react";
 
 function Biography() {
   return (
-    <footer>
+    <section className="container">
       <span>ldskjalnlksafjdbkjl</span>
-    </footer>
+    </section>
   );
 }
 

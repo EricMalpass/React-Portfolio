@@ -5,7 +5,7 @@ function Navbar() {
     return (
         <nav>
         <div class="dropdown">
-        <button class="dropbutton">Sections</button>
+        <div class="dropbutton">Sections</div>
             <div class="dropdown-content">
                 <Link to="biography">About</Link>
                 <Link to ="projects">Projects</Link>

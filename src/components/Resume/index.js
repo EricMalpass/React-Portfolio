@@ -1,5 +1,5 @@
 import React from "react";
-import show from "../../images/Eric_Malpass_Resume.pdf"
+import download from "../../images/Eric_Malpass_Resume.pdf"
 
 // function Resume() {
 //   return (
@@ -13,14 +13,13 @@ function Resume() {
         <h2 className="top-title">Resume</h2>
         <hr></hr>
         <div>
-            <ul className='contact'>
+            <ul>
                 <div>
-                    Download: <a href="https://github.com/ericmalpass>Resume</a>
+                    Download: <a href={download} download >Resume</a>
                 </div>
             </ul>
         </div>
-    </section>
-            
+    </section>      
     )};
 
  export default Resume;
