@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Seasons Eatings",
+        "image": "../images/seasons_project.png",
+        "github": "https://github.com/EricMalpass/project_2",
+        "deploy": "https://quiet-lowlands-76523.herokuapp.com/"
+    },
+    {
+        "id": 2,
+        "name": "Worth A Shot",
+        "image": "../images/Worth_A_Shot.jpeg",
+        "github": "https://github.com/EricMalpass/project_1",
+        "deploy": "https://ericmalpass.github.io/project_1/"
+    }
+]
