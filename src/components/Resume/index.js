@@ -15,7 +15,9 @@ function Resume() {
         <div>
             <ul>
                 <div>
-                    Download: <a href={download} download >Resume</a>
+                    <p>Email: EricMalpass@gmail.com</p>
+                    <p>Phone Number: (206)920-5275</p>
+                    <p>Download: <a href={download} download >Resume</a></p>
                 </div>
             </ul>
         </div>

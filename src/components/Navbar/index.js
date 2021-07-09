@@ -7,10 +7,10 @@ function Navbar() {
         <div class="dropdown">
         <div class="dropbutton">Sections</div>
             <div class="dropdown-content">
+                <Link to ="home">Home</Link>
                 <Link to="biography">About</Link>
                 <Link to ="projects">Projects</Link>
                 <Link to ="resume">Resume</Link>
-                <Link to ="home">Home</Link>
             </div>   
         </div>
     </nav>
