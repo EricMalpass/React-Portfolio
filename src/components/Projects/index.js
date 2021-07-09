@@ -1,6 +1,8 @@
 import React from "react";
 import ProjectWork from '../ProjectWork'
-import work from '../ProjectWork.json'
+import work from '../ProjectWork'
+import asd from "../../images/seasons_project.png"
+
 
 // function Wrapper(props) {
 //   return <div className="wrapper">{props.children}</div>;
@@ -15,9 +17,12 @@ function Projects() {
             <hr></hr>
           </div>
           <div className="wrapper" id="card-data">
-            {work.map((project) => (
+            {work.map((project) => {
+              // const image = require (project.image).default
+              // const image = require ("../../images/seasons_project.png").default
+              // console.log(image)
               // <ProjectWork key={project.id} image={project.image} name={project.name} github={project.github} deploy={project.deploy}/>
-              <div className="card">
+              return <div className="card">
         <div className="img-container">
           <img alt={project.name} src={project.image} />
         </div>
@@ -33,7 +38,7 @@ function Projects() {
           </div>
         </div>
       </div>
-            ))}
+})}
           </div>
         </section>
         </>
