@@ -43,7 +43,7 @@ nav {
     background-color: black;
     color: white;
     padding: 16px;
-    font-size: 16px;
+    font-size: 20px;
     border: none;
 }
   
@@ -117,3 +117,7 @@ footer {
     font-family: 'Della Respira', serif;
 }
 
+.wrapper {
+    margin-top: 75px;
+    margin-left: -350px;
+}
