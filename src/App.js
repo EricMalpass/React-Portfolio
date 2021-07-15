@@ -16,7 +16,6 @@ function App() {
     <Router>
       <div>
       <Header></Header>
-        <Navbar />
           <Route exact path="/" component={Home} />
           <Route exact path="/home" component={Home} />
           <Route exact path="/biography" component={Biography} />
