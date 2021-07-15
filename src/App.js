@@ -8,6 +8,7 @@ import './App.css';
 import Biography from "./components/Biography";
 import Projects from "./components/Projects";
 import Resume from "./components/Resume";
+import './style.css';
 
 
 

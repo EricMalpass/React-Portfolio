@@ -121,6 +121,11 @@ footer {
 }
 
 .resume{
-    width: 765px;
+    width: 1000px;
     margin: 0 auto;
+    margin-left: 450px;
+    
+}
+.page{
+    margin-left: -400px;
 }

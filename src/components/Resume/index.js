@@ -28,8 +28,10 @@ function Resume() {
       >
         <Page pageNumber={pageNumber} />
       </Document>
+      <div className= "page">
       <p>Page {pageNumber} of {numPages}</p>
       <button onClick = {() => setPageNumber(2)}> Next page </button>< button onClick = {() => setPageNumber(1)}> previous</button>
+      </div>
     </div>
         </div>
     </section>      
