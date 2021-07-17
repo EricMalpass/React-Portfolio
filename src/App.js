@@ -1,7 +1,6 @@
 import React from "react";
 import { HashRouter as Router, Route } from "react-router-dom";
 import Home from "./pages/home";
-import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import './App.css';

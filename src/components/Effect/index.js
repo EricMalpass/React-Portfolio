@@ -7,10 +7,10 @@ class Effect extends React.Component {
       showImage: Travel
     };
 changeImg = () => {
-    if (this.state.showImage == Formal) {
+    if (this.state.showImage === Formal) {
         this.setState({showImage : Travel})
     }
-    if (this.state.showImage == Travel) {
+    if (this.state.showImage === Travel) {
         this.setState({showImage : Formal})
     }
 };

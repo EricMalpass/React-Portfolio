@@ -13,7 +13,7 @@ function Biography() {
               I was born in Seattle and raised in the greater Seattle area. 
               </p>
               <p>I attended Western Washington University and Vrije Universiteit Brussel, graduating with a BA in International Business Management from WWU. 
-               <p> I have worked in many customer centric business roles and as teacher.</p>
+               <p> I have worked in many customer centric business roles and as a teacher/tutor.</p>
               </p>
               <p>
                 With Covid I decided to enter the University of Washington to earn a certificate in full stack web development.

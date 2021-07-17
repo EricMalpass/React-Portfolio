@@ -10,6 +10,15 @@ function Resume() {
   
     function onDocumentLoadSuccess({ numPages }) {
       setNumPages(numPages);}
+
+      function changeImg (){
+        if (pageNumber == 1) {
+            setPageNumber(2)
+        }
+        if (pageNumber == 2) {
+          setPageNumber(1)
+        }
+    };
     return (
         
         <section className="container">
@@ -30,11 +39,15 @@ function Resume() {
       </Document>
       <div className= "page">
       <p>Page {pageNumber} of {numPages}</p>
-      <button onClick = {() => setPageNumber(2)}> Next page </button>< button onClick = {() => setPageNumber(1)}> previous</button>
+      {/* <button onClick = {() => setPageNumber(2)}> Next page </button>< button onClick = {() => setPageNumber(1)}> previous</button> */}
+      
+      <button class = "btn" onClick = {changeImg}>Next Page</button>
+
       </div>
     </div>
         </div>
     </section>      
     )};
+
 
  export default Resume;

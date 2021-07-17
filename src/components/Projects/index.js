@@ -1,12 +1,5 @@
 import React from "react";
-import ProjectWork from '../ProjectWork'
 import work from '../ProjectWork'
-import asd from "../../images/seasons_project.png"
-
-
-// function Wrapper(props) {
-//   return <div className="wrapper">{props.children}</div>;
-// }
 
 function Projects() {
   return (
