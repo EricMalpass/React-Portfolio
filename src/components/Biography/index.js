@@ -19,7 +19,7 @@ function Biography() {
                 With Covid I decided to enter the University of Washington to earn a certificate in full stack web development.
                 </p>
                 <p>
-              I am looking to transition to a new role using my skills as a full stack developer such as JavaScript, Express, Node, and React.
+              I am looking to transition to a new role using my skills as a full stack developer such as JavaScript, Express, Node, SQL, MongoDB and React.
               </p>
             </article>
           </div>
