@@ -4,7 +4,7 @@ My portfolio displaying usage of Javascript, HTML, CSS, and React
 ![Screenshots](./src/images/screenshot.PNG)
 
 Link to active site:
-https://github.com/EricMalpass/React-Portfolio/
+https://ericmalpass.github.io/React-Portfolio/
 
 Link to repo:
 
