@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.a11862e2.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.8302fef4.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.8302fef4.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.c782dabf.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.c782dabf.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.fd6a288a.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.fd6a288a.js.map",
     "static/js/2.746b6772.chunk.js": "/React-Portfolio/static/js/2.746b6772.chunk.js",
@@ -10,10 +10,11 @@
     "index.html": "/React-Portfolio/index.html",
     "static/css/main.a11862e2.chunk.css.map": "/React-Portfolio/static/css/main.a11862e2.chunk.css.map",
     "static/js/2.746b6772.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.746b6772.chunk.js.LICENSE.txt",
-    "static/media/Eric_Malpass_Resume.f61324ce.pdf": "/React-Portfolio/static/media/Eric_Malpass_Resume.f61324ce.pdf",
+    "static/media/EricMalpassResume (1).b1bd6068.pdf": "/React-Portfolio/static/media/EricMalpassResume (1).b1bd6068.pdf",
     "static/media/Worth_A_Shot.1a7e896e.jpeg": "/React-Portfolio/static/media/Worth_A_Shot.1a7e896e.jpeg",
     "static/media/day.f6d0b655.png": "/React-Portfolio/static/media/day.f6d0b655.png",
     "static/media/formalpicture.ddff8dbe.jpg": "/React-Portfolio/static/media/formalpicture.ddff8dbe.jpg",
+    "static/media/homepage.bd84e572.png": "/React-Portfolio/static/media/homepage.bd84e572.png",
     "static/media/seasons_project.f1771ff9.png": "/React-Portfolio/static/media/seasons_project.f1771ff9.png",
     "static/media/travelpicture.5393d927.jpg": "/React-Portfolio/static/media/travelpicture.5393d927.jpg"
   },
@@ -21,6 +22,6 @@
     "static/js/runtime-main.fd6a288a.js",
     "static/js/2.746b6772.chunk.js",
     "static/css/main.a11862e2.chunk.css",
-    "static/js/main.8302fef4.chunk.js"
+    "static/js/main.c782dabf.chunk.js"
   ]
 }

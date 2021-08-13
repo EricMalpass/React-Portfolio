@@ -1,6 +1,7 @@
 import seasons_project from "../images/seasons_project.png"
 import shot from "../images/Worth_A_Shot.jpeg"
 import day from "../images/day.png"
+import bethere from "../images/homepage.png"
 
 export default [
     
@@ -14,9 +15,9 @@ export default [
     {
         "id": 2,
         "name": "Be There",
-        "image": shot,
-        "github": "https://github.com/EricMalpass/project_1",
-        "deploy": "https://ericmalpass.github.io/project_1/"
+        "image": bethere,
+        "github": "https://github.com/EricMalpass/B-There",
+        "deploy": "https://lit-tundra-22638.herokuapp.com"
     },
     {
         "id": 3,

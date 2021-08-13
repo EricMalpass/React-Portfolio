@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import download from "../../images/Eric_Malpass_Resume.pdf"
+import download from "../../images/EricMalpassResume (1).pdf"
 import { Document, Page, pdfjs } from "react-pdf";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
